@@ -8,8 +8,7 @@
       "tags": ["bucha", "limpeza"],
       "price": 8.99,
       "sku": "100039",
-      "categories": ["limpeza", "cuidado_para_casa"],
-      "inventory_quantity":"",
+      "categories": ["limpeza"],
       "status": "published",
       "variants": []
     }
